@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UC_2_diceRoll", "UC_2_diceR
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UC_3_optionsCheck", "UC_3_optionsCheck\UC_3_optionsCheck.csproj", "{7DC93F4B-4AC3-4002-BE6B-EB903508B05B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC_4_repeatTillPosition100", "UC_4_repeatTillPosition100\UC_4_repeatTillPosition100.csproj", "{DB31F1AA-9702-4DE5-B872-9B4511F29BDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UC_4_repeatTillPosition100", "UC_4_repeatTillPosition100\UC_4_repeatTillPosition100.csproj", "{DB31F1AA-9702-4DE5-B872-9B4511F29BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC_5_exactWinningPosition100", "UC_5_exactWinningPosition100\UC_5_exactWinningPosition100.csproj", "{82198007-438E-4F81-966D-E764E92485C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DB31F1AA-9702-4DE5-B872-9B4511F29BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB31F1AA-9702-4DE5-B872-9B4511F29BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB31F1AA-9702-4DE5-B872-9B4511F29BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82198007-438E-4F81-966D-E764E92485C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82198007-438E-4F81-966D-E764E92485C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82198007-438E-4F81-966D-E764E92485C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82198007-438E-4F81-966D-E764E92485C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
