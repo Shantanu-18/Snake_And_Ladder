@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UC_4_repeatTillPosition100"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UC_5_exactWinningPosition100", "UC_5_exactWinningPosition100\UC_5_exactWinningPosition100.csproj", "{82198007-438E-4F81-966D-E764E92485C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC_6_numberOfTimeDiceRolled", "UC_6_numberOfTimeDiceRolled\UC_6_numberOfTimeDiceRolled.csproj", "{DBD9BF35-6815-43C8-8EB1-81F7FDB2BEE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UC_6_numberOfTimeDiceRolled", "UC_6_numberOfTimeDiceRolled\UC_6_numberOfTimeDiceRolled.csproj", "{DBD9BF35-6815-43C8-8EB1-81F7FDB2BEE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC_7_twoPlayers", "UC_7_twoPlayers\UC_7_twoPlayers.csproj", "{7D884B7E-B59F-426F-B35C-E6FE3F08FBB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{DBD9BF35-6815-43C8-8EB1-81F7FDB2BEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBD9BF35-6815-43C8-8EB1-81F7FDB2BEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBD9BF35-6815-43C8-8EB1-81F7FDB2BEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D884B7E-B59F-426F-B35C-E6FE3F08FBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D884B7E-B59F-426F-B35C-E6FE3F08FBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D884B7E-B59F-426F-B35C-E6FE3F08FBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D884B7E-B59F-426F-B35C-E6FE3F08FBB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
