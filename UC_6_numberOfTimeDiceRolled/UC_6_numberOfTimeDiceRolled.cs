@@ -34,7 +34,6 @@ namespace UC_6_numberOfTimeDiceRolled
 
                 if (newPosition == maxPosition)
                 {
-                    currentPosition = currentPosition - dice;
                     Console.WriteLine("Congratulations You Won the Game Your at 100 position :)");
                     Console.WriteLine("Dice was rolled " + numOfDiceRoll + " times.");
                     break;
